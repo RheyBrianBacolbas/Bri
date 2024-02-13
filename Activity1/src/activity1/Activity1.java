@@ -19,9 +19,9 @@ public class Activity1 {
 
 
 
-///**
-
-import java.util.Scanner;
+/////**
+//
+//import java.util.Scanner;
 
 // *
 // * @author Student
@@ -82,6 +82,4 @@ import java.util.Scanner;
     
 }
 
-    }
-    
-}
+
