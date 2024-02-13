@@ -75,8 +75,9 @@ public class Activity1 {
 //        
 
 
-     int n = 5+6;
+     float n = 100/2;
         System.out.println("n");
+        
  
         
         
