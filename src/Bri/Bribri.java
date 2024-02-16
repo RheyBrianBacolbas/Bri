@@ -1,3 +1,5 @@
+package Bri;
+
 `1/*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
@@ -6,7 +8,7 @@ package sangny;
 import java.util.Arrays;
         
         
-public class Sangny {
+public class Bribri {
 
     /**
      * @param args the command line arguments
