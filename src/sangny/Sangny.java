@@ -1,4 +1,4 @@
-/*
+`1/*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
@@ -13,7 +13,7 @@ public class Sangny {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int[] array = {20, 30, 60, 945, 50};
+        int[] array = {20, 30, 60, 945, 5000};
 
         System.out.println("Elements of the array:");
         System.out.println("First array element: " + array[0]); 
