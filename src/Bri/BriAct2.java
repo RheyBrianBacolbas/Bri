@@ -8,7 +8,7 @@ import java.util.Arrays;
 
         
         
-public class Bribri {
+public class BriAct2 {
 
     /**
      * @param args the command line arguments
